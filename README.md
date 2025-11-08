@@ -1,0 +1,1 @@
+# LethalCompany_Chinese_Localized_Translation
