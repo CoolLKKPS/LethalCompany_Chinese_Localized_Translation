@@ -1,0 +1,11 @@
+{
+    "name": "Chinese_Localized_Translation",
+    "version_number": "0.0.4",
+    "website_url": "",
+    "description": "一个中文本土化模组",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "LeKAKiD-FontPatcher-1.2.4",
+        "CoolLKK_Group-GameTranslator-1.9.8"
+    ]
+}
