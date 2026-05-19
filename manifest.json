@@ -1,11 +1,11 @@
 {
     "name": "Chinese_Localized_Translation",
-    "version_number": "0.0.6",
+    "version_number": "0.0.7",
     "website_url": "https://github.com/CoolLKKPS/LethalCompany_Chinese_Localized_Translation",
     "description": "一个中文本土化模组",
     "dependencies": [
-        "BepInEx-BepInExPack-5.4.2304",
+        "BepInEx-BepInExPack-5.4.2305",
         "LeKAKiD-FontPatcher-1.2.4",
-        "CoolLKK_Group-GameTranslator-2.0.8"
+        "CoolLKK_Group-GameTranslator-2.1.2"
     ]
 }
