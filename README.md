@@ -28,7 +28,7 @@ Hayrizan 和 bbepis - 提供了 GameTranslator 可以基于的 XUnity.Common.dll
 
 chuxiaaaa - 提供了最简单直接的对GameTranslator的字体问题修复，受 MIT 许可
 
-NakiriFox - 提供了 MSYH 和 LXGW 字体文件，虽然我还没仔细问过他这些字体文件，但应该...没事
+NakiriFox - 采用了来自他的汉化里的 MSYH 和 LXGW 字体文件 (https://thunderstore.io/c/lethal-company/p/NakiriFox/LC_Simplified_Chinese_Localization)
 
 NakiriFox、init、externC、Lenghui - 在 Sweetfox 本土化翻译的基础上提供了第二波的新翻译补充
 
